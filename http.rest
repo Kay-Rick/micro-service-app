@@ -1,0 +1,4 @@
+GET http://192.168.1.126:8000/api/services/Information Fusion_metaApp/instance HTTP/1.1
+
+
+GET http://192.168.1.126:8000/api/services/consul/instance HTTP/1.1
